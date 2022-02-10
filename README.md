@@ -11,7 +11,7 @@ I am leaving this open source on the honor system. Please do not plagarize my co
 A conventional clock web app made from scratch using just html, css and js.
 
 ### **Deployment**
-The web app is deployed using github pages and can be viewed at https://zainmujahid.me/clock-web-app-js/
+The web app is deployed using github pages and can be viewed at <a href="https://zainmujahid.me/clock-web-app-js/" target="_blank">https://zainmujahid.me/clock-web-app-js/</a>
 
 ### **Contributing** 💡
 > #### Step 1
