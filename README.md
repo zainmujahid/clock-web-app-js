@@ -29,6 +29,3 @@ The web app is deployed using github pages and can be viewed at <a href="https:/
 > #### Step 3
 
 - 🔃 Create a new pull request.
-
-### **License 📄**
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
